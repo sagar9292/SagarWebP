@@ -1,0 +1,33 @@
+body.body1{
+    background-color: rgba(0, 0, 0, 0.918);
+}
+span{
+    color: red;
+}
+#carouselExampleDark{
+
+    max-height: max-content;
+    padding-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.carousel-inner{
+    border-radius: 20px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-style:italic;
+    font-size: 50px;
+    color: #dddddd;
+    position: relative;
+    left: 400px;
+    bottom: 200px;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    color: #dddddd;
+    font-size: 18px;
+    position: relative;
+    left: 400px;
+    bottom: 190px;
+}
